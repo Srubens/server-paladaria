@@ -2,35 +2,35 @@
     "produtos":[
       {
         "id":1,
-        "categoria":"Camisas",
-        "titulo":"Camisa Wordpress",
+        "categoria":"Lanches",
+        "titulo":"Macarons Diversons 90g",
         "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "valor":32.9,
+        "valor":9.0,
         "destaque":true,
         "img":[
-          {"url":"/assets/camisa-wp.jpg"}
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"}
         ]
       },
       {
         "id":2,
-        "categoria":"Camisas",
-        "titulo":"Camisa Divi",
+        "categoria":"Lanches",
+        "titulo":"Tortilette de Laranja Lima com Amoras",
         "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "valor":36.9,
+        "valor":12.0,
         "destaque":true,
         "img":[
-          {"url":"/assets/camisa.jpg"}
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
         ]
       },
       {
         "id":3,
-        "categoria": "Camisas",
-        "titulo": "Jaqueta Div life",
+        "categoria": "Lanches",
+        "titulo": "Fatia de Torta gelada de Café com chocolate Amargo",
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "valor":62.9,
+        "valor":14.0,
         "destaque":true,
         "img":[
-          {"url":"/assets/jaqueta.jpg"}
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"}
         ]
       }
     ]
