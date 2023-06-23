@@ -1,0 +1,38 @@
+{
+    "produtos":[
+      {
+        "id":1,
+        "categoria":"Camisas",
+        "titulo":"Camisa Wordpress",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":32.9,
+        "destaque":true,
+        "img":[
+          {"url":"/assets/camisa-wp.jpg"}
+        ]
+      },
+      {
+        "id":2,
+        "categoria":"Camisas",
+        "titulo":"Camisa Divi",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":36.9,
+        "destaque":true,
+        "img":[
+          {"url":"/assets/camisa.jpg"}
+        ]
+      },
+      {
+        "id":3,
+        "categoria": "Camisas",
+        "titulo": "Jaqueta Div life",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":62.9,
+        "destaque":true,
+        "img":[
+          {"url":"/assets/jaqueta.jpg"}
+        ]
+      }
+    ]
+  }
+  
