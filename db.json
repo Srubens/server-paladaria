@@ -8,7 +8,9 @@
         "valor":9.0,
         "destaque":true,
         "img":[
-          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"}
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"}
         ]
       },
       {
@@ -19,7 +21,9 @@
         "valor":12.0,
         "destaque":true,
         "img":[
-          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"}
         ]
       },
       {
@@ -30,7 +34,9 @@
         "valor":14.0,
         "destaque":true,
         "img":[
-          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"}
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
         ]
       }
     ]
